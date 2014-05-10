@@ -11,7 +11,7 @@ How?
 Place the `matplotlibrc` file in following folders:
 
 * MacOS in `~\.matplotlib`
-* Linux in '/home/yourusername/.config/matplotlib/
+* Linux in `/home/yourusername/.config/matplotlib/`
 
 
 Style
